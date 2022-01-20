@@ -173,3 +173,6 @@ namespace ConsoleAppProject.App06
         }
     }
 }
+
+
+siu
