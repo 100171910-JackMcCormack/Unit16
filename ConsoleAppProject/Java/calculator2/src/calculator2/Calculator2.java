@@ -1,5 +1,5 @@
 public class Calculator2 {
-    String name;
+    String Name;
     
     public int add(int x, int y) {
         return x + y;
