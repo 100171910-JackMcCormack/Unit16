@@ -16,7 +16,15 @@ public class Calulator extends javax.swing.JFrame {
     public Calulator() {
         initComponents();
     }
-
+    
+    public void enable()
+    {
+        jTextField1.setEnabled(true);
+        
+        jButton1.setEnabled(true);
+    }
+    
+    
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
